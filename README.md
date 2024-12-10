@@ -84,7 +84,7 @@ weight <- jobs.nnls.weights(beta,se)
 ```
 
 
-#### JOBS Step 2: refine eQTLs edtimation 
+#### JOBS Step 2: refine eQTLs estimation 
 - **weight**: K numeric numbers for K cell types, add up to 1.
 - **COR**: Whether consider correlation across cell types, default is FALSE.
 ```r
