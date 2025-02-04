@@ -13,8 +13,8 @@ jobs.eqtls<-function(beta,se,weight,COR=NULL){
   }
 
   #print(COR)
-  df<-beta
-  df_s<-se
+  df<-as.data.frame(beta)
+  df_s<-as.data.frame(se)
 
   cat(paste0("Check NA in sc-eqtl \n"))
   na.list<-list()
@@ -37,7 +37,7 @@ jobs.eqtls<-function(beta,se,weight,COR=NULL){
   cat(paste0("Check if all sc-eqtl effects are 0 \n"))
   cat(paste0(nrow(x_old), " gene-snp pairs in total \n"))
 
-  sum1<-rowSums(x_old)
+  sum1<-as.numeric(rowSums(x_old))
 
   length(sum1)
   length(which(sum1!=0))
