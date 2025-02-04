@@ -46,6 +46,8 @@ jobs.eqtls<-function(beta,se,weight,COR=NULL){
 
   df_s<-df_s[which(sum1!=0),]
 
+  x_old<-df[,3:ncol(df)]
+
   cat(paste0(nrow(df), " gene-snp pairs passed the filtering \n"))
 
   weight<-t(as.matrix(weight))
