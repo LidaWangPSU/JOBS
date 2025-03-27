@@ -1,5 +1,5 @@
 # JOBS
-JOint model viewing Bk-eQTLs as a weighted sum of Sc-eQTLs (JOBS)
+JOint model viewing Bk-eQTLs as a weighted sum of Sc-eQTLs (JOBS) (https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X)
 
 
 ## Table of contents
