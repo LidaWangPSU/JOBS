@@ -16,6 +16,10 @@ JObS summary statistics (analyzing eQTLGen and OneK1K) are available for downloa
  
 It is developed and maintained by Lida Wang at [Dajiang Liu's Group](https://dajiangliu.blog).
 
+If you use this dataset or JOBS package, please cite the following publication:
+
+Wang et al., An atlas of single-cell eQTLs dissects autoimmune disease genes and identifies novel drug classes for treatment, Cell Genomics (2025), https://doi.org/10.1016/j.xgen.2025.100820
+
 ## Installation
 JOBS is hosted on GitHub, making it easy to install and update. Before installing. The following R packages are required: MASS, dplyr, data.table, tidyr, R.utils, pracma, and quadprog.
 
