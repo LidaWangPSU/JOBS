@@ -14,6 +14,7 @@ Here, we propose a JOint model viewing Bk-eQTLs as a weighted sum of Sc-eQTLs (J
 
 JObS summary statistics (analyzing eQTLGen and OneK1K) are available for download from the [Zenodo repo](https://zenodo.org/records/15097677). It is developed and maintained by [Lida Wang](https://lidawangpsu.github.io/Lida/) at [Dajiang Liu's Group](https://dajiangliu.blog).
 
+## Citation
 If you use this dataset or JOBS package, please cite the following publication:
 
 Wang et al., An atlas of single-cell eQTLs dissects autoimmune disease genes and identifies novel drug classes for treatment, Cell Genomics (2025), https://doi.org/10.1016/j.xgen.2025.100820
