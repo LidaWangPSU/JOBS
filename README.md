@@ -12,9 +12,7 @@ JOint model viewing Bk-eQTLs as a weighted sum of Sc-eQTLs [JOBS](https://www.ce
 ## Introduction
 Here, we propose a JOint model viewing Bk-eQTLs as a weighted sum of Sc-eQTLs (JOBS) from constituent cell types. JOBS borrows strength from large sample sizes of bk-eQTLs to improve sc-eQTLs analysis, with improvements bigger for more common cell types. With more accurate sc-eQTLs effect estimates, all integrative analyses can be improved. 
 
-JObS summary statistics (analyzing eQTLGen and OneK1K) are available for download from the [Zenodo repo](https://zenodo.org/records/15097677).
- 
-It is developed and maintained by Lida Wang at [Dajiang Liu's Group](https://dajiangliu.blog).
+JObS summary statistics (analyzing eQTLGen and OneK1K) are available for download from the [Zenodo repo](https://zenodo.org/records/15097677). It is developed and maintained by [Lida Wang](https://lidawangpsu.github.io/Lida/) at [Dajiang Liu's Group](https://dajiangliu.blog).
 
 If you use this dataset or JOBS package, please cite the following publication:
 
