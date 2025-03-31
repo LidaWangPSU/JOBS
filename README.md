@@ -40,7 +40,7 @@ library(JOBS)
 ### 1. Prepare bulk and single cell eQTLs summary statistics (effect size and s.e.). 
 
 #### Effect Size Matrix
-This matrix contains eQTL effect sizes for both bulk and single-cell data. We recomend using stadardized effect size ans s.e., say, beta = z score/ $\sqrt{N}$.
+This matrix contains eQTL effect sizes for both bulk and single-cell data. We recomend using stadardized effect size ans s.e., say, beta = z score/ $\sqrt{N}$, s.e. = 1/$\sqrt{N}$
 
 - **Columns**:
   - **Column 1**: Gene-SNP pair identifiers.
