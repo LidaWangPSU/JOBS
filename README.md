@@ -42,7 +42,7 @@ library(JOBS)
 #### Effect Size Matrix
 This matrix contains eQTL effect sizes for both bulk and single-cell data. We recommend using standardized effect sizes and standard errors, for example:
 
-$\beta=z-score/\sqrt{N}, s.e.=1/\sqrt{N}$
+$\beta=z score/\sqrt{N}, s.e.=1/\sqrt{N}$
 
 - **Columns**:
   - **Column 1**: Gene-SNP pair identifiers.
