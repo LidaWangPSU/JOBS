@@ -103,6 +103,7 @@ The output includes:
 * Refined effect size: in the same format as effect size input
 * Refined S.E: in the same format as s.e. input
 
+We uploaded pre-computed gene expression prediction weights [here](https://github.com/LidaWangPSU/JOBS/blob/main/example_data/)
 
 ## Contact
 Lida Wang [lida.wang.96@gmail.com](lida.wang.96@gmail.com)
