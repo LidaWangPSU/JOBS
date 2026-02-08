@@ -1,6 +1,7 @@
 # JOBS
 JOint model viewing Bk-eQTLs as a weighted sum of Sc-eQTLs [JOBS](https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00076-X)
-
+*JObS summary statistics (analyzing eQTLGen and OneK1K) are available for download from the [Zenodo repo](https://zenodo.org/records/15097677).
+*The pre-computed TWAS step1 cell type specific gene expression model weights could be downloaded [here](https://github.com/LidaWangPSU/JOBS/blob/main/example_data/)
 
 ## Table of contents
 * [Introduction](#Introduction)
@@ -12,7 +13,7 @@ JOint model viewing Bk-eQTLs as a weighted sum of Sc-eQTLs [JOBS](https://www.ce
 ## Introduction
 Here, we propose a JOint model viewing Bk-eQTLs as a weighted sum of Sc-eQTLs (JOBS) from constituent cell types. JOBS borrows strength from large sample sizes of bk-eQTLs to improve sc-eQTLs analysis, with improvements bigger for more common cell types. With more accurate sc-eQTLs effect estimates, all integrative analyses can be improved. 
 
-JObS summary statistics (analyzing eQTLGen and OneK1K) are available for download from the [Zenodo repo](https://zenodo.org/records/15097677). It is developed and maintained by [Lida Wang](https://lidawangpsu.github.io/Lida/) at [Dajiang Liu's Group](https://dajiangliu.blog).
+ It is developed and maintained by [Lida Wang](https://lidawangpsu.github.io/Lida/) at [Dajiang Liu's Group](https://dajiangliu.blog).
 
 ## Citation
 If you use this dataset or JOBS package, please cite the following publication:
